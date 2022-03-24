@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Debug</key>
+	<dict>
+		<key>apiUrl</key>
+		<string>http://api.green-bonus.ru</string>
+		<key>shouldUseFabric</key>
+		<false/>
+	</dict>
+	<key>QA</key>
+	<dict>
+		<key>apiUrl</key>
+		<string>http://api.green-bonus.ru</string>
+		<key>shouldUseFabric</key>
+		<true/>
+	</dict>
+	<key>Release</key>
+	<dict>
+		<key>apiUrl</key>
+		<string>http://api.green-bonus.ru</string>
+		<key>shouldUseFabric</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
